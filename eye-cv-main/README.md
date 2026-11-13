@@ -1,6 +1,6 @@
 # EyeCV — Retinal Disease Classification
 
-**Utkarsh Mishra** — [@devutkarshh](https://github.com/devutkarshh)
+**Vigyat Thard** — [@0xvigyat](https://github.com/0xvigyat)
 
 An end-to-end deep-learning system that automatically classifies retinal (fundus)
 photographs into four eye conditions: **cataract**, **diabetic retinopathy**,
@@ -160,5 +160,5 @@ python colab_explainability.py --model resnet   # or --model vit
 
 ## Author
 
-**Utkarsh Mishra** — [github.com/devutkarshh](https://github.com/devutkarshh)
+**Vigyat Thard** — [github.com/0xvigyat](https://github.com/0xvigyat)
 #
